@@ -1,4 +1,2 @@
-# GeoControl-Python
-## GeoControl Lighting Control
-## ---------------------------
+# GeoControl Lighting Control
 Python-based light control app.
